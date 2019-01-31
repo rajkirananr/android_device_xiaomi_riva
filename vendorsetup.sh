@@ -21,5 +21,5 @@
 # function: add_lunch_combo generic-eng
 
 for var in eng user userdebug; do
-  add_lunch_combo aosip_riva-$var
+  add_lunch_combo xtended_riva-$var
 done
