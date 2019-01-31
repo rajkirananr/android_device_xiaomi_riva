@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bootleg_riva.mk
+    $(LOCAL_DIR)/aisip_riva.mk
