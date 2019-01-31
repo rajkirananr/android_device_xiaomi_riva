@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosip_riva.mk
+    $(LOCAL_DIR)/xtended_riva.mk
