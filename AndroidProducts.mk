@@ -14,4 +14,5 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended.mk
+    $(LOCAL_DIR)/xtended_riva.mk
+ 
