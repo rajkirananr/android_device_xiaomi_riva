@@ -23,6 +23,9 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit some common Colt stuff.
 $(call inherit-product, vendor/colt/common.mk)
 
+# Bootanimation Resolution
+TARGET_BOOT_ANIMATION_RES := 720 x 1280 :
+
 
 # Inherit from riva device
 $(call inherit-product, $(DEVICE_PATH)/device.mk)
