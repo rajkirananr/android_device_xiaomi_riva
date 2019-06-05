@@ -21,5 +21,5 @@
 # function: add_lunch_combo generic-eng
 
 for var in eng user userdebug; do
-  add_lunch_combo bootleg_riva-$var
+  add_lunch_combo colt_riva-$var
 done
